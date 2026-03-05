@@ -38,8 +38,8 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Is it required to be a developer to become a CTO?](https://www.quora.com/Is-it-required-to-be-a-developer-coder-to-become-a-CTO-Why-cant-an-architect-become-a-CTO) *(Quora)* ✅
  * [Three Golden Rules to Finding a CTO](https://www.rudebaguette.com/2011/12/01/three-golden-rules-to-finding-a-cto/) ✅ 
  * [Becoming a CTO](https://web.archive.org/web/20171128214925/https://juokaz.com/blog/becoming-a-cto) ✅ 
- * [VP Engineering vs CTO](https://avc.com/2011/10/vp-engineering-vs-cto/) - Fred Wilson *(Union Square Ventures)*
- * [What makes for a successful CEO and CTO relationship in a startup?](https://www.quora.com/What-makes-for-a-successful-CEO-and-CTO-relationship-in-a-startup) *(Quora)*
+ * [VP Engineering vs CTO](https://avc.com/2011/10/vp-engineering-vs-cto/) - Fred Wilson *(Union Square Ventures)*  ✅ 
+ * [What makes for a successful CEO and CTO relationship in a startup?](https://www.quora.com/What-makes-for-a-successful-CEO-and-CTO-relationship-in-a-startup) *(Quora)*  ✅ 
  * [#define CTO](https://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe) - Greg Brockman *(Stripe CTO)*
  * [How my role as CTO has changed as we've grown to 100 engineers](https://medium.com/gusto-engineering/how-my-role-as-cto-has-changed-as-weve-grown-to-100-engineers-b16a8a6b1a88)
  * [Your first 90 days as CTO or VP Engineering](https://lethain.com/first-ninety-days-cto-vpe/) - Will Larson
