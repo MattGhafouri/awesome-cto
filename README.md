@@ -43,9 +43,9 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [#define CTO](https://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe) - Greg Brockman *(Stripe CTO)*  ✅ 
  * [How my role as CTO has changed as we've grown to 100 engineers](https://medium.com/gusto-engineering/how-my-role-as-cto-has-changed-as-weve-grown-to-100-engineers-b16a8a6b1a88)  ✅ 
  * [Your first 90 days as CTO or VP Engineering](https://lethain.com/first-ninety-days-cto-vpe/) - Will Larson  ✅ 
- * [How to spend your first 30 days in a new senior-level role](https://larahogan.me/blog/first-30-days-new-role/)
- * [The difference between a CTO and a VP Engineering](https://www.linkedin.com/pulse/20140615184118-4928723-the-differences-between-a-cto-and-a-vp-engineering/)
- * [Evolution of my role as a founder CTO](https://miguelcarranza.es/cto), [Year 4 Update](https://miguelcarranza.es/cto-year-4), [Year 5 Update](https://miguelcarranza.es/cto-year-5) - Miguel Carranza
+ * [How to spend your first 30 days in a new senior-level role](https://larahogan.me/blog/first-30-days-new-role/) ✅ 
+ * [The difference between a CTO and a VP Engineering](https://www.linkedin.com/pulse/20140615184118-4928723-the-differences-between-a-cto-and-a-vp-engineering/) ✅ 
+ * [Evolution of my role as a founder CTO](https://miguelcarranza.es/cto), [Year 4 Update](https://miguelcarranza.es/cto-year-4), [Year 5 Update](https://miguelcarranza.es/cto-year-5) - Miguel Carranza ✅ 
 
 
 ## Hiring
