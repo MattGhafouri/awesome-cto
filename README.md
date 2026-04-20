@@ -119,7 +119,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
 
 ## Career growth
  * [Career Growth Frameworks in Software Engineering: A Review](https://web.archive.org/web/20210123114037/https://medium.com/better-programming/career-growth-frameworks-in-software-engineering-a-review-4aa6c59a9cf6)
- * [Software Engineers Growth framework](https://prontopro.engineering/blog/software-engineer-growth-framework)
+ * [Software Engineers Growth framework](https://prontopro.engineering/blog/software-engineer-growth-framework) ✅
  * [Software Engineering Ladders](https://github.com/jorgef/engineeringladders) *(GitHub)*
  * [Awesome Engineering Ladders](https://github.com/posquit0/awesome-engineering-ladders) *(GitHub)*
  * Reverse Interview
